@@ -1,25 +1,20 @@
-# image-compress
+<center>
 
-> An electron-vue project
-
-#### Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron application for production
-npm run build
+# ImageCompress
+> 一个图片压缩的桌面小工具
 
 
-# lint all JS/Vue component files in `src/`
-npm run lint
+![](./screenshots/compress-20200506235932.png)
+</center>
 
-```
+### 目前只打包了windows版本.
 
----
+* [下载最新版本](https://github.com/zhaokuohaha/ImageCompress/releases)
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[45a3e22](https://github.com/SimulatedGREG/electron-vue/tree/45a3e224e7bb8fc71909021ccfdcfec0f461f634) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+* [有问题开Issue](https://github.com/zhaokuohaha/ImageCompress/issues)
+
+
+### 相关链接
+* lrz: https://github.com/think2011/localResizeIMG
+* image-compare: https://github.com/junkboy0315/vue-compare-image
+* electron-vue: https://simulatedgreg.gitbooks.io/electron-vue/content/cn/
