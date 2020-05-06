@@ -4,7 +4,7 @@
 > 一个图片压缩的桌面小工具
 
 
-![](./screenshots/compress-20200506235932.png)
+![](https://s1.ax1x.com/2020/05/07/YVsIJ0.jpg)
 </center>
 
 ### 目前只打包了windows版本.
